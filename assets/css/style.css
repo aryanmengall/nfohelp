@@ -801,5 +801,32 @@ font-weight: bold;}
 
 .gallery_product {
   margin-bottom: 30px; }
+  
+  .see-more-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .see-more-btn:hover {
+    background-color: #3e8e41;
+  }
+  
+  .other-link {
+    color: red;
+    text-decoration: underline;
+  }
+  
+  
+  
+
+
+
+
+
+
 
 /*# sourceMappingURL=style.css.map */
